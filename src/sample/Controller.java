@@ -11,7 +11,7 @@ public class Controller {
     @FXML
     public void onClick1()
     {
-        System.out.println("Hello ");
+        System.out.println("Hello!");
 
     }
     @FXML
